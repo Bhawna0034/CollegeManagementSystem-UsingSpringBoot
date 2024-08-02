@@ -78,7 +78,7 @@ The College Management System is a Spring Boot application that helps manage a c
          spring.jpa.hibernate.ddl-auto=create
 
  ### 3. Access the application
-   Open your browser and go to http://localhost:8080     
+   Open your browser and go to http://localhost:8080/swagger-ui/index.html
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
